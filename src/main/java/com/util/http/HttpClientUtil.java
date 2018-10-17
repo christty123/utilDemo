@@ -45,7 +45,7 @@ import org.slf4j.LoggerFactory;
 
 /**
  * for GET & POST http(s) request
- * @author unknown
+ * @author christ
  *
  */
 public class HttpClientUtil {
